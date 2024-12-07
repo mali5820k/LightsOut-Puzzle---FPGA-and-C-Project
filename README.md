@@ -1,6 +1,7 @@
 # The LightsOut Puzzle - Displayed on a monitor screen
 * A lab that displays the LightsOut Puzzel to a monitor screen via the FPGA's VGA adapter cable.
 * NOTE: Project utilizes Microblaze IP.
+* NOTE: May contain screenshots and figures that are sourced from lab instructions manual provided by lab instructor(s) at GMU for ECE 448 in December 2022.
 
 ## Provided files by instructor(s) that may have been modified to achieve project objectives:
 * Source code for these provided files can be found [here](https://academic.csuohio.edu/chu-pong/fpga-vhdl-soc-book/)

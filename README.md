@@ -50,7 +50,7 @@ A 9-bit Linear Feedback Shift Register (LFSR) Entity was used to generate random
 - Layout out the pixel-grid with respect to the target resolution:
 ![alt text](<README_Contents/Screen pixel layout.png>)
 
-- Marking hotzones on the grid where area-of-effect of the cursor will change depending on the cursor's grid-index:
+- Marking grid-wrapping and hotzones on the grid where area-of-effect of the cursor will change depending on the cursor's grid-index:
 ![alt text](README_Contents/Hotzones-change-area-of-effect.png)
 
 - Final Monitor display of the game:
